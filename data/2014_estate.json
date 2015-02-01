@@ -22,7 +22,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "1. 門牌：臺北縣板橋市民族路168號、館前東路156巷7弄1號2. 交通部確認所有權訴訟勝訴確定，尚未辦理移轉國有登記",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -133,7 +133,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "1. 門牌：臺北縣板橋市民族路168號、館前東路156巷7弄1號2. 交通部確認所有權訴訟勝訴確定，尚未辦理移轉國有登記",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -216,7 +216,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "1. 門牌：臺北縣板橋市民族路168號、館前東路156巷7弄1號2. 交通部確認所有權訴訟勝訴確定，尚未辦理移轉國有登記",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -295,7 +295,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "1. 門牌：臺北縣板橋市民族路168號、館前東路156巷7弄1號2. 交通部確認所有權訴訟勝訴確定，尚未辦理移轉國有登記",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -378,7 +378,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "1. 門牌：臺北縣板橋市民族路168號、館前東路156巷7弄1號2. 交通部確認所有權訴訟勝訴確定，尚未辦理移轉國有登記",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -581,7 +581,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "1. 門牌：臺北縣板橋市民族路168號、館前東路156巷7弄1號2. 交通部確認所有權訴訟勝訴確定，尚未辦理移轉國有登記",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -656,7 +656,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "1. 門牌：臺北縣板橋市民族路168號、館前東路156巷7弄1號2. 交通部確認所有權訴訟勝訴確定，尚未辦理移轉國有登記",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -747,7 +747,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "1. 門牌：臺北縣板橋市民族路168號、館前東路156巷7弄1號2. 交通部確認所有權訴訟勝訴確定，尚未辦理移轉國有登記",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -874,7 +874,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "1. 門牌：花蓮市水源街25號2. 交通部確認所有權之訴，截至2014年9月26日仍訴訟中",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -997,7 +997,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "1. 門牌：花蓮市水源街25號2. 交通部確認所有權之訴，截至2014年9月26日仍訴訟中",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -1112,7 +1112,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "1. 門牌：花蓮市水源街25號2. 交通部確認所有權之訴，截至2014年9月26日仍訴訟中",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -1191,7 +1191,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "交通部提起確認所有權之訴，交通部敗訴確定",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -1582,7 +1582,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "交通部提起確認所有權之訴，交通部敗訴確定",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -1673,7 +1673,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": " 1. 門牌：臺北市萬華區成都路13號、漢中街116號2. 國產署提起確任所有權訴訟，國產署敗訴確定 ",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -1844,7 +1844,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": " 1. 門牌：臺北市萬華區成都路13號、漢中街116號2. 國產署提起確任所有權訴訟，國產署敗訴確定 ",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -2091,7 +2091,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "門牌：嘉義市文化路155-57號、155-64號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -2162,7 +2162,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "門牌：嘉義市文化路155-57號、155-64號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -2257,7 +2257,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "門牌：高雄市塩埕區七賢三路241號、247號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -2285,7 +2285,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "門牌：屏東市民生路248號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -2404,7 +2404,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "門牌：屏東市民生路248號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -2567,7 +2567,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "門牌：屏東市民生路248號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -2642,7 +2642,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "門牌：屏東市民生路248號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -2713,7 +2713,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "門牌：屏東市民生路248號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -2784,7 +2784,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "門牌：屏東市民生路248號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -2859,7 +2859,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "門牌：屏東市民生路248號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -2930,7 +2930,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -3041,7 +3041,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "國產署提起確認所有權訴訟，截至2014年9月26日仍訴訟中",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -3460,7 +3460,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "國產署提起確認所有權訴訟，截至2014年9月26日仍訴訟中",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -4179,7 +4179,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "國產署提起確認所有權訴訟，截至2014年9月26日仍訴訟中",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -4270,7 +4270,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "國產署提起確認所有權訴訟，截至2014年9月26日仍訴訟中",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -4360,7 +4360,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "地上建物156、157建號亦已拋棄登記國有",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -4526,7 +4526,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -4596,7 +4596,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -4706,7 +4706,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -4792,7 +4792,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -4874,7 +4874,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -4960,7 +4960,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -5030,7 +5030,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -5128,7 +5128,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -5258,7 +5258,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -5348,7 +5348,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -5390,7 +5390,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "地上建物156、157建號亦已拋棄登記國有",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -5516,7 +5516,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "併入805地號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -5610,7 +5610,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "地上建物156、157建號亦已拋棄登記國有",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -5740,7 +5740,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "併入800地號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -5826,7 +5826,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -5928,7 +5928,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -6010,7 +6010,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -6096,7 +6096,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -6166,7 +6166,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -6340,7 +6340,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -6434,7 +6434,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -6461,7 +6461,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -6488,7 +6488,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -6515,7 +6515,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -6585,7 +6585,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -6655,7 +6655,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -6725,7 +6725,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -6791,7 +6791,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -6861,7 +6861,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -6975,7 +6975,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -7065,7 +7065,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -7215,7 +7215,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -7317,7 +7317,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -7423,7 +7423,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -7525,7 +7525,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -7615,7 +7615,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -7685,7 +7685,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -7807,7 +7807,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -7881,7 +7881,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -7951,7 +7951,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -8025,7 +8025,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -8095,7 +8095,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -8261,7 +8261,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -8431,7 +8431,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -8501,7 +8501,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -8591,7 +8591,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -8661,7 +8661,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -8831,7 +8831,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -8965,7 +8965,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -9443,7 +9443,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -9533,7 +9533,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -9623,7 +9623,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -9765,7 +9765,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -9895,7 +9895,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -9977,7 +9977,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -10047,7 +10047,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -10117,7 +10117,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -10144,7 +10144,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -10230,7 +10230,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -10296,7 +10296,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -10454,7 +10454,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -10520,7 +10520,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -10594,7 +10594,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "併入3地號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -10636,7 +10636,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "49.12.9",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -10734,7 +10734,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "58.8.1",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -10761,7 +10761,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "58.8.1",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -10788,7 +10788,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "58.8.1",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -10815,7 +10815,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "58.8.1",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -10842,7 +10842,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "58.8.1",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -10869,7 +10869,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "58.8.1",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -10896,7 +10896,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "58.8.1",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -10923,7 +10923,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.30",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -10950,7 +10950,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.30",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -10977,7 +10977,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.30",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11004,7 +11004,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.30",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11031,7 +11031,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.30",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11058,7 +11058,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.30",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11085,7 +11085,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.30",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11112,7 +11112,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.30",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11139,7 +11139,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.30",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11166,7 +11166,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.30",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11193,7 +11193,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.30",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11220,7 +11220,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.30",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11247,7 +11247,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "46.7.26",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11274,7 +11274,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.28",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11301,7 +11301,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.5.28",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11328,7 +11328,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.28",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11355,7 +11355,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.28",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -11382,7 +11382,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.6.13",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -11456,7 +11456,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.6.13",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -11530,7 +11530,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.6.13",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -11600,7 +11600,7 @@
         "移轉第三人時間": "",
         "被徵收時間": 506.13,
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -11674,7 +11674,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "59.1.21",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -11752,7 +11752,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "59.1.21",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -11834,7 +11834,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "65.3.18",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -11904,7 +11904,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "65.3.18",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -11970,7 +11970,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "64.1.16",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -12076,7 +12076,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "64.1.16",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -12150,7 +12150,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "85.12.9",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -12232,7 +12232,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "85.12.9",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -12298,7 +12298,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "57.5.31",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -12325,7 +12325,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "60.8.30",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -12352,7 +12352,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "60.8.30",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -12379,7 +12379,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "60.8.30",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -12406,7 +12406,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "60.8.30",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -12433,7 +12433,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "60.8.30",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -12460,7 +12460,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "63.4.2",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -12487,7 +12487,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "63.4.2",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -12514,7 +12514,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "63.4.2",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -12541,7 +12541,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "63.4.2",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -12568,7 +12568,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "63.4.2",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -12595,7 +12595,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "63.4.2",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -12622,7 +12622,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.12.22",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -12720,7 +12720,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.12.22",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -12818,7 +12818,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.12.22",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -12916,7 +12916,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.12.22",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -13010,7 +13010,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.12.22",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -13084,7 +13084,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.12.22",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -13198,7 +13198,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.12.22",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -13264,7 +13264,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.12.22",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -13334,7 +13334,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.12.22",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -13404,7 +13404,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.12.22",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -13478,7 +13478,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.12.22",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -13548,7 +13548,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.9.27",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -13642,7 +13642,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "62.4.12",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -13716,7 +13716,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "62.4.12",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -13782,7 +13782,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "62.4.12",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -13856,7 +13856,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "62.4.12",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -13922,7 +13922,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "62.4.12",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14000,7 +14000,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "62.4.12",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14078,7 +14078,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.9.27",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14152,7 +14152,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.9.27",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14250,7 +14250,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "62.4.12",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14320,7 +14320,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "62.4.12",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14390,7 +14390,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "62.4.12",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14460,7 +14460,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "62.4.9",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14534,7 +14534,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.9.27",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14620,7 +14620,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "49.9.1",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14662,7 +14662,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "49.9.1",
         "備註": "併入586地號",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14704,7 +14704,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "63.11.5",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14746,7 +14746,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.20",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14788,7 +14788,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.20",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14830,7 +14830,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.20",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14872,7 +14872,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.20",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14914,7 +14914,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.20",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14956,7 +14956,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.20",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -14998,7 +14998,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.20",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -15040,7 +15040,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.20",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -15082,7 +15082,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.20",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -15124,7 +15124,7 @@
         "移轉第三人時間": "",
         "被徵收時間": 506.1,
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -15166,7 +15166,7 @@
         "移轉第三人時間": "",
         "被徵收時間": 50.61,
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -15208,7 +15208,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.6.1",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -15250,7 +15250,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.8.9",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -15344,7 +15344,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "49.10.1",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -15414,7 +15414,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "49.4.27",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -15500,7 +15500,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.8.9",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -15594,7 +15594,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.8.9",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -15664,7 +15664,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.8.9",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -15734,7 +15734,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "61.1.31",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -15804,7 +15804,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "53.11.4",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -15831,7 +15831,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "53.11.4",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -15858,7 +15858,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "53.11.4",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -15885,7 +15885,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "53.11.4",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -15912,7 +15912,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "63.9.18",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -15939,7 +15939,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "53.11.4",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -15966,7 +15966,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "53.11.4",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -15993,7 +15993,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "55.11.24",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -16020,7 +16020,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.12.5",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -16094,7 +16094,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "52.9.30",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -16176,7 +16176,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "52.9.30",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -16250,7 +16250,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "46.9.10",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -16336,7 +16336,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "46.9.10",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -16410,7 +16410,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "46.9.10",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -16484,7 +16484,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "46.9.10",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -16554,7 +16554,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "46.9.10",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -16624,7 +16624,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "46.9.10",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -16694,7 +16694,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "46.9.10",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -16764,7 +16764,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "46.9.10",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -16834,7 +16834,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "46.9.10",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -16904,7 +16904,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "46.9.10",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -16974,7 +16974,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.2",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17016,7 +17016,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.2",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17058,7 +17058,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.2",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17100,7 +17100,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "48.12.30",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17218,7 +17218,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "48.12.30",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17288,7 +17288,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.22",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17386,7 +17386,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "54.4.22",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17456,7 +17456,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.10.19",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17530,7 +17530,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "53.5.5",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17628,7 +17628,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.30",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17698,7 +17698,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.30",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17768,7 +17768,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.3.30",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17838,7 +17838,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.8.1",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17912,7 +17912,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.8.1",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -17986,7 +17986,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.8.1",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -18060,7 +18060,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "57.10.14",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -18154,7 +18154,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "57.10.14",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -18228,7 +18228,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "56.3.8",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -18310,7 +18310,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "60.6.8",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -18380,7 +18380,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "60.6.8",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -18454,7 +18454,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.12.5",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -18560,7 +18560,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "50.12.5",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -18634,7 +18634,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "56.11.14",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -18708,7 +18708,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "56.11.14",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -18778,7 +18778,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "57.7.27",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -18852,7 +18852,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "57.7.27",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -18934,7 +18934,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "52.12.2",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -18961,7 +18961,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "52.12.2",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -18988,7 +18988,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -19090,7 +19090,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -19188,7 +19188,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -19254,7 +19254,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -19380,7 +19380,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -19518,7 +19518,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -19648,7 +19648,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -19746,7 +19746,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -19820,7 +19820,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -19970,7 +19970,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -20036,7 +20036,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -20130,7 +20130,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -20344,7 +20344,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -20462,7 +20462,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -20544,7 +20544,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -20658,7 +20658,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -20732,7 +20732,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -20838,7 +20838,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -20916,7 +20916,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -20986,7 +20986,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -21064,7 +21064,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -21158,7 +21158,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -21248,7 +21248,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -21326,7 +21326,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -21400,7 +21400,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -21490,7 +21490,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -21620,7 +21620,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -21730,7 +21730,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -21844,7 +21844,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -21918,7 +21918,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -22016,7 +22016,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -22106,7 +22106,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -22204,7 +22204,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -22282,7 +22282,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -22380,7 +22380,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -22482,7 +22482,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -22612,7 +22612,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -22718,7 +22718,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -22808,7 +22808,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -22894,7 +22894,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -22992,7 +22992,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -23082,7 +23082,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -23208,7 +23208,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -23298,7 +23298,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -23396,7 +23396,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -23582,7 +23582,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -23684,7 +23684,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -23834,7 +23834,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -24092,7 +24092,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -24226,7 +24226,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -24328,7 +24328,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -24430,7 +24430,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -24596,7 +24596,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -24678,7 +24678,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -24872,7 +24872,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -25002,7 +25002,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -25132,7 +25132,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -25222,7 +25222,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -25308,7 +25308,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -25386,7 +25386,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -25428,7 +25428,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -25522,7 +25522,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -25720,7 +25720,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -25818,7 +25818,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -25904,7 +25904,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -26010,7 +26010,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -26140,7 +26140,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -26298,7 +26298,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -26500,7 +26500,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -26578,7 +26578,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -26712,7 +26712,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -27002,7 +27002,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -27188,7 +27188,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -27342,7 +27342,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -27432,7 +27432,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -27518,7 +27518,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -27728,7 +27728,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -27802,7 +27802,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -27964,7 +27964,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -28038,7 +28038,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -28116,7 +28116,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -28218,7 +28218,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -28304,7 +28304,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -28450,7 +28450,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -28560,7 +28560,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -28718,7 +28718,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -28824,7 +28824,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -28946,7 +28946,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -29016,7 +29016,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -29150,7 +29150,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -29216,7 +29216,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -29318,7 +29318,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -29472,7 +29472,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -29578,7 +29578,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -29656,7 +29656,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -29738,7 +29738,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -29820,7 +29820,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -29894,7 +29894,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -29964,7 +29964,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -30142,7 +30142,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -30224,7 +30224,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -30306,7 +30306,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -30412,7 +30412,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -30486,7 +30486,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -30620,7 +30620,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -30706,7 +30706,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -30836,7 +30836,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -30918,7 +30918,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -31056,7 +31056,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -31134,7 +31134,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -31224,7 +31224,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -31322,7 +31322,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -31416,7 +31416,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -31494,7 +31494,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -31580,7 +31580,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -31698,7 +31698,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -32124,7 +32124,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -32250,7 +32250,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -32448,7 +32448,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -32526,7 +32526,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -32648,7 +32648,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -32734,7 +32734,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -32856,7 +32856,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -32950,7 +32950,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -33104,7 +33104,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -33214,7 +33214,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -33308,7 +33308,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -33398,7 +33398,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -33544,7 +33544,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -33714,7 +33714,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -33784,7 +33784,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -33874,7 +33874,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -33960,7 +33960,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -34062,7 +34062,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -34156,7 +34156,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -34234,7 +34234,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -34368,7 +34368,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -34490,7 +34490,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -34568,7 +34568,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -34694,7 +34694,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -34800,7 +34800,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -34902,7 +34902,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -35024,7 +35024,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -35130,7 +35130,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -35276,7 +35276,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -35438,7 +35438,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -35512,7 +35512,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -35586,7 +35586,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -35720,7 +35720,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -35810,7 +35810,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -35904,7 +35904,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -36002,7 +36002,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -36092,7 +36092,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -36198,7 +36198,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -36304,7 +36304,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -36394,7 +36394,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -36480,7 +36480,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -36582,7 +36582,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -36708,7 +36708,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -36826,7 +36826,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -36916,7 +36916,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -37002,7 +37002,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -37112,7 +37112,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -37198,7 +37198,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -37300,7 +37300,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -37398,7 +37398,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -37480,7 +37480,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -37590,7 +37590,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -37704,7 +37704,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -37818,7 +37818,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -37896,7 +37896,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -37994,7 +37994,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -38068,7 +38068,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -38170,7 +38170,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -38300,7 +38300,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -38398,7 +38398,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -38516,7 +38516,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -38586,7 +38586,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -38708,7 +38708,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -38794,7 +38794,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -39000,7 +39000,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -39098,7 +39098,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -39176,7 +39176,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -39258,7 +39258,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -39336,7 +39336,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -39414,7 +39414,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -39508,7 +39508,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -39594,7 +39594,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -39676,7 +39676,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -39846,7 +39846,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -39972,7 +39972,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -40102,7 +40102,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -40192,7 +40192,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -40334,7 +40334,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -40412,7 +40412,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -40534,7 +40534,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -40668,7 +40668,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -40754,7 +40754,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -40864,7 +40864,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -41038,7 +41038,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -41192,7 +41192,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -41314,7 +41314,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -41408,7 +41408,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -41506,7 +41506,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -41628,7 +41628,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -41806,7 +41806,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -41896,7 +41896,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -41994,7 +41994,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -42096,7 +42096,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -42258,7 +42258,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -42396,7 +42396,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -42506,7 +42506,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -42576,7 +42576,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -42670,7 +42670,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -42864,7 +42864,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -42966,7 +42966,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -43072,7 +43072,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -43166,7 +43166,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -43256,7 +43256,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -43334,7 +43334,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -43480,7 +43480,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -43578,7 +43578,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -43656,7 +43656,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -43742,7 +43742,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -43812,7 +43812,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -43894,7 +43894,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -43968,7 +43968,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -44078,7 +44078,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -44192,7 +44192,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -44382,7 +44382,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -44448,7 +44448,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -44546,7 +44546,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -44628,7 +44628,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -44786,7 +44786,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -44928,7 +44928,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -45022,7 +45022,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -45100,7 +45100,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -45246,7 +45246,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -45348,7 +45348,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -45462,7 +45462,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -45584,7 +45584,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -45730,7 +45730,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -45836,7 +45836,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -45918,7 +45918,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -46032,7 +46032,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -46106,7 +46106,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -46192,7 +46192,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -46278,7 +46278,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -46352,7 +46352,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -46438,7 +46438,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -46536,7 +46536,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -46606,7 +46606,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -46680,7 +46680,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -46762,7 +46762,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -46848,7 +46848,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -46930,7 +46930,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -47108,7 +47108,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -47222,7 +47222,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -47300,7 +47300,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -47374,7 +47374,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -47492,7 +47492,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -47598,7 +47598,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -47688,7 +47688,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -47798,7 +47798,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -47900,7 +47900,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -48110,7 +48110,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -48252,7 +48252,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -48354,7 +48354,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -48476,7 +48476,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -48578,7 +48578,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -48668,7 +48668,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -48782,7 +48782,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -48892,7 +48892,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -49006,7 +49006,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -49108,7 +49108,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -49182,7 +49182,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -49292,7 +49292,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -49382,7 +49382,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -49468,7 +49468,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -49638,7 +49638,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -49728,7 +49728,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -49846,7 +49846,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -49936,7 +49936,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -50058,7 +50058,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -50184,7 +50184,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -50258,7 +50258,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -50464,7 +50464,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -50558,7 +50558,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -50808,7 +50808,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -50918,7 +50918,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -51008,7 +51008,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -51134,7 +51134,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -51248,7 +51248,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -51326,7 +51326,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -51456,7 +51456,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -51554,7 +51554,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -51740,7 +51740,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -51914,7 +51914,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -52024,7 +52024,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -52258,7 +52258,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -52336,7 +52336,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -52378,7 +52378,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -52536,7 +52536,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -52638,7 +52638,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -52708,7 +52708,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -52794,7 +52794,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -52876,7 +52876,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -52966,7 +52966,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -53080,7 +53080,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -53182,7 +53182,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "非屬監察院調查報告",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -53368,7 +53368,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "56.3.16",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -53486,7 +53486,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "56.3.16",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -53544,7 +53544,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "56.3.16",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -53698,7 +53698,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "56.3.16",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -53824,7 +53824,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "56.3.16",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -53957,7 +53957,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -54126,7 +54126,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -54371,7 +54371,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -54397,7 +54397,7 @@
         "移轉第三人時間": "73~81年間",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -54423,7 +54423,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -54449,7 +54449,7 @@
         "移轉第三人時間": "73~81年間",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -54475,7 +54475,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -54501,7 +54501,7 @@
         "移轉第三人時間": "70.12.31出售國民黨",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -54527,7 +54527,7 @@
         "移轉第三人時間": "68~71年間",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -54553,7 +54553,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "78.11.20",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -54579,7 +54579,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -54696,7 +54696,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -54857,7 +54857,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -54930,7 +54930,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -54999,7 +54999,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -55068,7 +55068,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -55141,7 +55141,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -55210,7 +55210,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "77.7.27",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -55287,7 +55287,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "77.7.27",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -55356,7 +55356,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "77.7.27",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -55449,7 +55449,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "77.7.27",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -55518,7 +55518,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "77.7.27",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -55595,7 +55595,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -55704,7 +55704,7 @@
         "移轉第三人時間": "93.5.24",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -55833,7 +55833,7 @@
         "移轉第三人時間": "86.12.12",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -55950,7 +55950,7 @@
         "移轉第三人時間": "46.9.18",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56051,7 +56051,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56128,7 +56128,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56197,7 +56197,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56266,7 +56266,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56335,7 +56335,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56404,7 +56404,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56473,7 +56473,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56542,7 +56542,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56611,7 +56611,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56680,7 +56680,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56749,7 +56749,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56826,7 +56826,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56895,7 +56895,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -56968,7 +56968,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -57045,7 +57045,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -57114,7 +57114,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -57183,7 +57183,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -57252,7 +57252,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -57341,7 +57341,7 @@
         "移轉第三人時間": "50.6.20",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -57410,7 +57410,7 @@
         "移轉第三人時間": "57.6.10",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -57499,7 +57499,7 @@
         "移轉第三人時間": "57.6.10",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -57568,7 +57568,7 @@
         "移轉第三人時間": "57.6.10",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -57641,7 +57641,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "85.7.18",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -57706,7 +57706,7 @@
         "移轉第三人時間": "91.10.9售予高雄市",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -57799,7 +57799,7 @@
         "移轉第三人時間": "91.10.15",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -57876,7 +57876,7 @@
         "移轉第三人時間": "91.10.9售予高雄市",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -57953,7 +57953,7 @@
         "移轉第三人時間": "91.10.15",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -58022,7 +58022,7 @@
         "移轉第三人時間": "48.10.28",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -58147,7 +58147,7 @@
         "移轉第三人時間": "48.10.28",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -58216,7 +58216,7 @@
         "移轉第三人時間": "48.10.28",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -58297,7 +58297,7 @@
         "移轉第三人時間": "48.10.28",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -58366,7 +58366,7 @@
         "移轉第三人時間": "48.10.28",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -58435,7 +58435,7 @@
         "移轉第三人時間": "48.10.28",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -58504,7 +58504,7 @@
         "移轉第三人時間": "48.10.28",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -58609,7 +58609,7 @@
         "移轉第三人時間": "48.10.28",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -58694,7 +58694,7 @@
         "移轉第三人時間": "48.10.28",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -58794,7 +58794,7 @@
         "移轉第三人時間": "87.12.31",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -58963,7 +58963,7 @@
         "移轉第三人時間": "87.12.31",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -59096,7 +59096,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "58.03.19",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -59357,7 +59357,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -59466,7 +59466,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -59547,7 +59547,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -59624,7 +59624,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -59705,7 +59705,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -59906,7 +59906,7 @@
         "移轉第三人時間": "92.10.01",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -60011,7 +60011,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -60084,7 +60084,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -60173,7 +60173,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -60298,7 +60298,7 @@
         "移轉第三人時間": "91.10.30",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -60391,7 +60391,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "訴訟中",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -60512,7 +60512,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "訴訟中",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -60633,7 +60633,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "訴訟中",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -60764,7 +60764,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -60917,7 +60917,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "敗訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -61306,7 +61306,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "敗訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -61395,7 +61395,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "69.8.18",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61421,7 +61421,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "69.8.18",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61447,7 +61447,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61473,7 +61473,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61499,7 +61499,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61525,7 +61525,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61551,7 +61551,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61577,7 +61577,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61603,7 +61603,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61629,7 +61629,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61655,7 +61655,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61681,7 +61681,7 @@
         "移轉第三人時間": "93.3.25",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61707,7 +61707,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61733,7 +61733,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61759,7 +61759,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61785,7 +61785,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61811,7 +61811,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61837,7 +61837,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61863,7 +61863,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "勝訴",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -61909,7 +61909,7 @@
           }
         ],
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -61993,7 +61993,7 @@
         "移轉第三人時間": "95.3.29",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -62279,7 +62279,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "1. 建物產權持分353/1000係教育部提供1.68億元興建，約定完工後產權應登記為教育部所有，惟救國團並未照辦，並將產權登記為其所有。2. 建物產權持分647/1000係經原管理機關僑務委員會移交國有財產局接管後，於94.8.24出售予救國團。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -62327,7 +62327,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -62476,7 +62476,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -62569,7 +62569,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -62710,7 +62710,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -62787,7 +62787,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -62900,7 +62900,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -62981,7 +62981,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -63098,7 +63098,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -63303,7 +63303,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -63416,7 +63416,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -63497,7 +63497,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -63590,7 +63590,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -63699,7 +63699,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -63792,7 +63792,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -63873,7 +63873,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -63974,7 +63974,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -64087,7 +64087,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -64164,7 +64164,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "原使用人為中華救助總會（救總），其於70年間捐助160萬元成立財團法人中華文化社會福利事業基金會後，土地即交由該基金會使用。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -64389,7 +64389,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -64502,7 +64502,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -64579,7 +64579,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -64692,7 +64692,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -64761,7 +64761,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -64830,7 +64830,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -64999,7 +64999,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -65248,7 +65248,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -65461,7 +65461,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -65642,7 +65642,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -66255,7 +66255,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -66396,7 +66396,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -66517,7 +66517,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -66626,7 +66626,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -66815,7 +66815,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "52.6.29依台灣省政府42.9.17（42）府產第70343號令轉帳予中華日報社股份有限公司。土地連同地上建物部份已出售。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -67232,7 +67232,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "52.6.29依台灣省政府42.9.17（42）府產第70343號令轉帳予中華日報社股份有限公司。土地連同地上建物部份已出售。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -67949,7 +67949,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "52.6.29依台灣省政府42.9.17（42）府產第70343號令轉帳予中華日報社股份有限公司。土地連同地上建物部份已出售。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -68038,7 +68038,7 @@
         "移轉第三人時間": "",
         "被徵收時間": "",
         "備註": "52.6.29依台灣省政府42.9.17（42）府產第70343號令轉帳予中華日報社股份有限公司。土地連同地上建物部份已出售。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -68129,7 +68129,7 @@
         },
         "使用狀況": "台南市黨部",
         "至2014年9月管理現況": "臺南市政府占用",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -68277,7 +68277,7 @@
         },
         "使用狀況": "嘉義學苑",
         "至2014年9月管理現況": "救國團承租",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -68369,7 +68369,7 @@
         },
         "使用狀況": "嘉義學苑",
         "至2014年9月管理現況": "救國團承租",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -68529,7 +68529,7 @@
         },
         "使用狀況": "嘉義學苑",
         "至2014年9月管理現況": "救國團承租",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -68773,7 +68773,7 @@
         },
         "使用狀況": "嘉義學苑",
         "至2014年9月管理現況": "救國團承租",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -68813,7 +68813,7 @@
         },
         "使用狀況": "台南市團委會",
         "至2014年9月管理現況": "臺南市政府承租",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -68981,7 +68981,7 @@
         },
         "使用狀況": "墾丁青年活動中心內雜林",
         "至2014年9月管理現況": "他人占用",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -69049,7 +69049,7 @@
         },
         "使用狀況": "墾丁青年活動中心內雜林",
         "至2014年9月管理現況": "閒置",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -69121,7 +69121,7 @@
         },
         "使用狀況": "澎湖青年活動中心",
         "至2014年9月管理現況": "救國團承租",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -69185,7 +69185,7 @@
         },
         "使用狀況": "宜蘭學苑",
         "至2014年9月管理現況": "103.8.4出售予救國團",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
 
@@ -69210,7 +69210,7 @@
         },
         "使用狀況": "台北學苑",
         "至2014年9月管理現況": "1. 已排除救國團占用。2. 2014年1月20日招標設定地上權予中國人壽保險股份有限公司。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -69286,7 +69286,7 @@
         },
         "使用狀況": "台北學苑",
         "至2014年9月管理現況": "1. 已排除救國團占用。2. 2014年1月20日招標設定地上權予中國人壽保險股份有限公司。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -69370,7 +69370,7 @@
         },
         "使用狀況": "台北學苑",
         "至2014年9月管理現況": "1. 已排除救國團占用。2. 2014年1月20日招標設定地上權予中國人壽保險股份有限公司。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -69450,7 +69450,7 @@
         },
         "使用狀況": "台北學苑",
         "至2014年9月管理現況": "1. 已排除救國團占用。2. 2014年1月20日招標設定地上權予中國人壽保險股份有限公司。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -69550,7 +69550,7 @@
         },
         "使用狀況": "台北學苑",
         "至2014年9月管理現況": "1. 已排除救國團占用。2. 2014年1月20日招標設定地上權予中國人壽保險股份有限公司。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -69634,7 +69634,7 @@
         },
         "使用狀況": "台北學苑",
         "至2014年9月管理現況": "1. 已排除救國團占用。2. 2014年1月20日招標設定地上權予中國人壽保險股份有限公司。",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
@@ -69710,7 +69710,7 @@
         },
         "使用狀況": "台中學苑停車場",
         "至2014年9月管理現況": "教育部經營，出租予第三人",
-        "gps": {
+        "geojson": {
           "type": "FeatureCollection",
           "features": [
             {
